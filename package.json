@@ -54,5 +54,6 @@
     "electron": false,
     "register-scheme": false,
     "./src/transports/IPC.js": false
-  }
+  },
+  "types": "index.d.ts"
 }

@@ -467,5 +467,5 @@ export interface Presence {
     spectateSecret?: string | undefined;
     joinSecret?: string | undefined;
     buttons?: Array<{ label: string; url: string }> | undefined;
-    type: number | undefined;
+    type?: number | undefined;
 }
